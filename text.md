@@ -14,7 +14,7 @@ _Ok-ish_:
 		`Из видео реальных людей + новой озвучки`
 		Также позволяет синхронизировать не только переводы, но и сам поток и поддержать при потере сигнала
 		Генерирует видео-выход самостоятельно, требует лишь подготовленых звуковых и видео дорожек.
-		https://neurohive.io/en/news/wav2lip-neural-network-successfully-syncs-lips-with-speech/
+		https://neurohive.io/en/news/wav2lip-neural-network-successfully-syncs-lips-with-speech/ (бумажка - https://arxiv.org/pdf/2008.10010.pdf)
 
 	Для аниматоров/стримеров криатарофф:
 		`Анимация статичных объедков`
@@ -22,7 +22,7 @@ _Ok-ish_:
 		https://medium.com/deepgamingai/automate-your-lip-sync-animations-with-this-ai-lipgan-ad35551ae62d
 		`Именно анимация`
 		Позволяет быстро и с минимальными трудозатратами создать правдоподобный анимированый персонаж, может использовать как ранее записаные файлы, так и потоковую речь и предоставлять результат в реальном времени, что позволяет помимо анимации персонажей использовать программу для прямых эфиоров с использованием маскотов
-		https://techxplore.com/news/2019-11-deep-technique-real-time-lip-sync.html
+		https://techxplore.com/news/2019-11-deep-technique-real-time-lip-sync.html (бумажка - https://arxiv.org/pdf/1910.08685.pdf)
 
 # Текст +- осмысленный
 
